@@ -1,0 +1,976 @@
+numero_departement;nom_commune;latitude;longitude
+4;Aiglun;44,066667;6,133333
+4;Allemagne-en-Provence;43,783333;6,016667
+4;Allons;43,966667;6,6
+4;Allos;44,233333;6,633333
+4;Angles;43,933333;6,566667
+4;Annot;43,966667;6,666667
+4;Archail;44,116667;6,333333
+4;Aubignosc;44,133333;5,966667
+4;Barras;44,1;6,116667
+4;Barreme;43,95;6,366667
+4;Beaujeu;44,2;6,366667
+4;Beauvezer;44,15;6,6
+4;Beynes;43,983333;6,233333
+4;Blieux;43,866667;6,366667
+4;Bras-d'Asse;43,916667;6,116667
+4;Braux;43,983333;6,683333
+4;Brunet;43,9;6,033333
+4;Castellane;43,85;6,516667
+4;Castellet-les-Sausses;43,983333;6,766667
+4;Champtercier;44,1;6,166667
+4;Chateau-Arnoux-Saint-Auban;44,09;6,01
+4;Chateauneuf-Val-Saint-Donat;44,1;5,95
+4;Chateauredon;44,016667;6,216667
+4;Chaudon-Norante;43,983333;6,35
+4;Clumanc;44,033333;6,416667
+4;Colmars;44,183333;6,633333
+4;Demandolx;43,866667;6,583333
+4;Digne-les-Bains;44,09;6,24
+4;Draix;44,133333;6,35
+4;Entrages;44,05;6,266667
+4;Entrevaux;43,95;6,816667
+4;Entrevennes;43,933333;6,033333
+4;Esparron-de-Verdon;43,733333;5,983333
+4;Estoublon;43,933333;6,166667
+4;Ganagobie;44;5,916667
+4;Greoux-les-Bains;43,75;5,883333
+4;Hautes-Duyes;;
+4;La Brillanne;43,916667;5,883333
+4;La Garde;43,833333;6,55
+4;La Javie;44,166667;6,35
+4;Lambruisse;44,05;6,433333
+4;La Mure-Argens;;
+4;La Palud-sur-Verdon;;
+4;La Robine-sur-Galabre;;
+4;La Rochette;;
+4;Le Brusquet;44,15;6,3
+4;Le Castellard-Melan;44,183333;6,133333
+4;Le Castellet;43,933333;5,983333
+4;Le Chaffaut-Saint-Jurson;;
+4;Le Fugeret;44;6,633333
+4;L'Escale;44,083333;6,033333
+4;Les Mees;44,033333;5,983333
+4;Lurs;43,966667;5,883333
+4;Majastres;43,916667;6,3
+4;Malijai;44,05;6,033333
+4;Mallemoisson;44,05;6,133333
+4;Marcoux;44,133333;6,283333
+4;Meailles;44,033333;6,633333
+4;Mezel;43,983333;6,2
+4;Mirabeau;44,066667;6,083333
+4;Montagnac-Montpezat;;
+4;Montfort;44,066667;5,966667
+4;Moriez;43,95;6,466667
+4;Moustiers-Sainte-Marie;43,85;6,216667
+4;Oraison;43,916667;5,916667
+4;Peipin;44,133333;5,95
+4;Peyroules;43,816667;6,633333
+4;Peyruis;44,033333;5,933333
+4;Prads-Haute-Bleone;;
+4;Puimichel;43,966667;6,016667
+4;Puimoisson;43,866667;6,133333
+4;Quinson;43,7;6,033333
+4;Riez;43,816667;6,1
+4;Rougon;43,8;6,4
+4;Roumoules;43,833333;6,133333
+4;Saint-Andre-les-Alpes;43,966667;6,5
+4;Saint-Benoit;43,966667;6,733333
+4;Sainte-Croix-du-Verdon;;
+4;Saint-Jacques;43,966667;6,416667
+4;Saint-Jeannet;43,95;6,116667
+4;Saint-Julien-d'Asse;43,916667;6,1
+4;Saint-Julien-du-Verdon;43,916667;6,533333
+4;Saint-Jurs;43,9;6,2
+4;Saint-Laurent-du-Verdon;43,716667;6,066667
+4;Saint-Lions;43,983333;6,4
+4;Saint-Martin-de-Bromes;43,766667;5,95
+4;Saint-Pierre;;
+4;Salignac;44,166667;5,983333
+4;Sausses;44,016667;6,783333
+4;Senez;43,916667;6,4
+4;Soleilhas;43,85;6,65
+4;Sourribes;44,15;6,016667
+4;Tartonne;44,066667;6,383333
+4;Thoard;44,15;6,15
+4;Thorame-Basse;44,083333;6,5
+4;Thorame-Haute;44,1;6,55
+4;Ubraye;43,9;6,7
+4;Val-de-Chalvagne;;
+4;Valensole;43,833333;5,983333
+4;Vergons;43,916667;6,583333
+4;Villars-Colmars;44,166667;6,6
+4;Volonne;44,116667;6,016667
+4;Aubenas-les-Alpes;43,933333;5,683333
+4;Authon;44,233333;6,133333
+4;Auzet;44,3;6,3
+4;Banon;44,033333;5,633333
+4;Barcelonnette;44,383333;6,65
+4;Barles;44,266667;6,266667
+4;Bayons;44,333333;6,166667
+4;Bellaffaire;44,416667;6,183333
+4;Bevons;44,183333;5,9
+4;Cereste;43,85;5,583333
+4;Chateaufort;44,266667;6,016667
+4;Chateauneuf-Miravail;44,15;5,716667
+4;Clamensane;44,316667;6,066667
+4;Claret;44,366667;5,95
+4;Corbieres;43,766667;5,75
+4;Cruis;44,066667;5,833333
+4;Curbans;44,433333;6,033333
+4;Curel;44,183333;5,666667
+4;Dauphin;43,9;5,783333
+4;Enchastrayes;44,366667;6,7
+4;Entrepierres;44,2;5,983333
+4;Faucon-de-Barcelonnette;44,4;6,683333
+4;Faucon-du-Caire;44,4;6,1
+4;Fontienne;44,016667;5,8
+4;Forcalquier;43,966667;5,783333
+4;Gigors;44,416667;6,15
+4;Jausiers;44,416667;6,733333
+4;La Breole;44,45;6,3
+4;La Condamine-Chatelard;;
+4;La Motte-du-Caire;44,35;6,033333
+4;Larche;44,45;6,85
+4;Lardiers;44,05;5,716667
+4;La Rochegiron;44,083333;5,65
+4;Le Caire;44,366667;6,05
+4;Le Lauzet-Ubaye;44,433333;6,433333
+4;Les Omergues;44,166667;5,6
+4;Les Thuiles;44,4;6,566667
+4;Le Vernet;44,283333;6,4
+4;L'Hospitalet;44,083333;5,7
+4;Limans;43,983333;5,733333
+4;Mallefougasse-Auges;;
+4;Mane;43,933333;5,766667
+4;Manosque;43,833333;5,783333
+4;Melve;44,35;5,983333
+4;Meolans-Revel;;
+4;Meyronnes;44,483333;6,8
+4;Mison;44,266667;5,833333
+4;Montclar;44,4;6,333333
+4;Montfuron;43,833333;5,7
+4;Montjustin;43,85;5,633333
+4;Montlaux;;
+4;Montsalier;;
+4;Nibles;44,283333;6,016667
+4;Niozelles;43,933333;5,833333
+4;Noyers-sur-Jabron;44,166667;5,833333
+4;Ongles;44,033333;5,733333
+4;Oppedette;43,933333;5,6
+4;Piegut;44,45;6,116667
+4;Pierrerue;43,95;5,833333
+4;Pierrevert;43,816667;5,75
+4;Pontis;44,5;6,366667
+4;Redortiers;44,083333;5,65
+4;Reillanne;43,883333;5,666667
+4;Revest-des-Brousses;43,966667;5,666667
+4;Revest-du-Bion;44,083333;5,55
+4;Revest-Saint-Martin;44,033333;5,816667
+4;Sainte-Croix-a-Lauze;43,916667;5,616667
+4;Saint-Etienne-les-Orgues;44,05;5,783333
+4;Sainte-Tulle;43,783333;5,766667
+4;Saint-Geniez;44,25;6,05
+4;Saint-Maime;43,9;5,8
+4;Saint-Martin-les-Eaux;43,883333;5,75
+4;Saint-Martin-les-Seyne;;
+4;Saint-Michel-l'Observatoire;43,916667;5,716667
+4;Saint-Paul-sur-Ubaye;;
+4;Saint-Pons;;
+4;Saint-Vincent-les-Forts;44,45;6,383333
+4;Saint-Vincent-sur-Jabron;44,166667;5,733333
+4;Saumane;44,083333;5,683333
+4;Selonnet;44,366667;6,3
+4;Seyne;44,35;6,35
+4;Sigonce;44;5,833333
+4;Sigoyer;44,316667;5,95
+4;Simiane-la-Rotonde;43,983333;5,566667
+4;Sisteron;44,2;5,933333
+4;Theze;44,316667;5,916667
+4;Turriers;44,4;6,166667
+4;Uvernet-Fours;;
+4;Vacheres;43,933333;5,633333
+4;Valavoire;44,266667;6,083333
+4;Valbelle;44,15;5,883333
+4;Valernes;44,266667;5,966667
+4;Vaumeilh;44,283333;5,95
+4;Venterol;44,45;6,1
+4;Verdaches;44,266667;6,333333
+4;Villemus;43,866667;5,7
+4;Villeneuve;43,9;5,866667
+4;Volx;43,883333;5,85
+5;Agnieres-en-Devoluy;44,7;5,883333
+5;Antonaves;44,266667;5,8
+5;Aspremont;;
+5;Aspres-sur-Buech;44,516667;5,75
+5;Avancon;44,533333;6,183333
+5;Barcillonnette;44,433333;5,916667
+5;Barret-sur-Meouge;44,266667;5,733333
+5;Breziers;44,433333;6,2
+5;Bruis;44,466667;5,516667
+5;Chabestan;44,483333;5,783333
+5;Chanousse;44,35;5,65
+5;Chateauneuf-de-Chabre;44,283333;5,816667
+5;Chateauneuf-d'Oze;44,516667;5,866667
+5;Chateauvieux;;
+5;Chorges;44,55;6,283333
+5;Eourres;44,2;5,7
+5;Esparron;;
+5;Espinasses;44,466667;6,216667
+5;Etoile-Saint-Cyrice;;
+5;Eyguians;44,35;5,783333
+5;Fouillouse;44,45;6,016667
+5;Furmeyer;44,533333;5,866667
+5;Gap;44,566667;6,083333
+5;Jarjayes;44,5;6,116667
+5;La Batie-Montsaleon;44,45;5,75
+5;La Batie-Neuve;44,566667;6,2
+5;La Batie-Vieille;44,55;6,166667
+5;La Beaume;44,566667;5,633333
+5;La Cluse;44,633333;5,85
+5;La Faurie;44,566667;5,733333
+5;La Freissinouse;44,533333;6,016667
+5;Lagrand;44,333333;5,75
+5;La Haute-Beaume;;
+5;La Piarre;44,466667;5,65
+5;Laragne-Monteglin;44,32;5,82
+5;Lardier-et-Valenca;44,433333;5,966667
+5;La Roche-des-Arnauds;44,566667;5,95
+5;La Rochette;44,6;6,15
+5;La Saulce;44,416667;6,016667
+5;Lazer;44,35;5,833333
+5;Le Bersac;44,416667;5,75
+5;L'Epine;44,416667;5,616667
+5;Le Poet;44,283333;5,883333
+5;Le Saix;44,483333;5,833333
+5;Lettret;44,466667;6,066667
+5;Manteyer;44,533333;5,966667
+5;Mereuil;44,383333;5,733333
+5;Monetier-Allemont;44,383333;5,933333
+5;Montbrand;44,583333;5,683333
+5;Montclus;44,416667;5,683333
+5;Montgardin;44,55;6,233333
+5;Montjay;44,366667;5,6
+5;Montmaur;44,583333;5,883333
+5;Montmorin;44,45;5,55
+5;Montrond;44,383333;5,75
+5;Moydans;44,4;5,5
+5;Neffes;44,5;6,033333
+5;Nossage-et-Benevent;;
+5;Orpierre;44,316667;5,683333
+5;Oze;44,5;5,8
+5;Pelleautier;44,516667;6,016667
+5;Prunieres;44,55;6,333333
+5;Rabou;44,6;6
+5;Rambaud;44,55;6,133333
+5;Remollon;44,466667;6,166667
+5;Ribeyret;44,416667;5,55
+5;Ribiers;44,233333;5,866667
+5;Rochebrune;44,466667;6,183333
+5;Rosans;44,383333;5,466667
+5;Rousset;;
+5;Saint-Andre-de-Rosans;44,383333;5,516667
+5;Saint-Auban-d'Oze;44,5;5,85
+5;Saint-Disdier;;
+5;Sainte-Colombe;;
+5;Sainte-Marie;44,466667;5,475
+5;Saint-Etienne-en-Devoluy;44,7;5,933333
+5;Saint-Etienne-le-Laus;44,5;6,166667
+5;Saint-Genis;44,383333;5,766667
+5;Saint-Julien-en-Beauchene;44,616667;5,7
+5;Saint-Pierre-Avez;44,25;5,766667
+5;Saint-Pierre-d'Argencon;44,516667;5,7
+5;Saleon;44,35;5,766667
+5;Salerans;44,25;5,7
+5;Savournon;44,416667;5,783333
+5;Serres;;
+5;Sigottier;44,45;5,7
+5;Sigoyer;44,483333;5,966667
+5;Sorbiers;44,366667;5,566667
+5;Tallard;44,466667;6,05
+5;Theus;44,466667;6,2
+5;Trescleoux;44,35;5,7
+5;Upaix;44,316667;5,883333
+5;Valserres;44,483333;6,133333
+5;Ventavon;44,366667;5,9
+5;Veynes;44,533333;5,816667
+5;Vitrolles;44,433333;5,933333
+5;Abries;44,783333;6,933333
+5;Aiguilles;44,783333;6,866667
+5;Ancelle;44,633333;6,2
+5;Arvieux;44,766667;6,733333
+5;Aspres-les-Corps;44,8;5,983333
+5;Baratier;44,533333;6,5
+5;Benevent-et-Charbillac;;
+5;Briancon;44,9;6,65
+5;Buissard;44,65;6,133333
+5;Ceillac;44,666667;6,775
+5;Cervieres;44,866667;6,716667
+5;Chabottes;44,65;6,183333
+5;Champcella;;
+5;Champoleon;44,733333;6,233333
+5;Chateauroux-les-Alpes;44,616667;6,516667
+5;Chateau-Ville-Vieille;44,766667;6,8
+5;Chauffayer;44,75;6,016667
+5;Crevoux;44,55;6,6
+5;Crots;;
+5;Embrun;44,566667;6,5
+5;Eygliers;;
+5;Forest-Saint-Julien;44,65;6,133333
+5;Freissinieres;;
+5;Guillestre;44,666667;6,65
+5;La Chapelle-en-Valgaudemar;;
+5;La Fare-en-Champsaur;44,666667;6,066667
+5;La Grave;45,05;6,31
+5;La Motte-en-Champsaur;44,733333;6,066667
+5;L'Argentiere-la-Bessee;44,783333;6,55
+5;La Roche-de-Rame;44,75;6,583333
+5;La Salle les Alpes;;
+5;Laye;44,633333;6,083333
+5;Le Glaizil;44,75;5,983333
+5;Le Monetier-les-Bains;44,983333;6,516667
+5;Le Noyer;44,7;6,016667
+5;Le Sauze-du-Lac;;
+5;Les Costes;44,75;6,033333
+5;Les Infournas;44,716667;6,1
+5;Les Orres;44,516667;6,55
+5;Les Vigneaux;44,816667;6,533333
+5;Molines-en-Queyras;44,733333;6,85
+5;Mont-Dauphin;44,666667;6,616667
+5;Montgenevre;44,933333;6,716667
+5;Nevache;45,01955;6,6044
+5;Orcieres;44,683333;6,333333
+5;Pelvoux;;
+5;Poligny;44,7;6,05
+5;Puy-Saint-Andre;44,883333;6,6
+5;Puy-Saint-Eusebe;44,566667;6,416667
+5;Puy-Saint-Pierre;44,9;6,616667
+5;Puy-Saint-Vincent;44,833333;6,483333
+5;Puy-Sanieres;44,55;6,433333
+5;Reallon;44,6;6,366667
+5;Reotier;44,666667;6,6
+5;Risoul;44,65;6,633333
+5;Ristolas;44,766667;6,95
+5;Saint-Andre-d'Embrun;44,583333;6,533333
+5;Saint-Apollinaire;44,566667;6,366667
+5;Saint-Bonnet-en-Champsaur;;
+5;Saint-Chaffrey;44,916667;6,6
+5;Saint-Clement-sur-Durance;;
+5;Saint-Crepin;44,7;6,6
+5;Saint-Eusebe-en-Champsaur;44,733333;6,033333
+5;Saint-Firmin;;
+5;Saint-Jacques-en-Valgodemard;44,766667;6,05
+5;Saint-Jean-Saint-Nicolas;44,666667;6,216667
+5;Saint-Julien-en-Champsaur;44,666667;6,133333
+5;Saint-Laurent-du-Cros;44,65;6,116667
+5;Saint-Leger-les-Melezes;44,65;6,2
+5;Saint-Martin-de-Queyrieres;;
+5;Saint-Maurice-en-Valgodemard;44,8;6,083333
+5;Saint-Michel-de-Chaillol;44,666667;6,166667
+5;Saint-Sauveur;44,533333;6,516667
+5;Saint-Veran;44,7;6,866667
+5;Savines-le-Lac;;
+5;Val-des-Pres;44,95;6,683333
+5;Vallouise;44,85;6,483333
+5;Vars;44,616667;6,683333
+5;Villar-d'Arene;45,04225;6,33711
+5;Villar-Loubiere;44,833333;6,133333
+5;Villar-Saint-Pancrace;44,866667;6,633333
+6;Nice;43,7;7,25
+6;Nice;43,7;7,25
+6;Falicon;43,75;7,283333
+6;La Trinite;43,75;7,316667
+6;Nice;43,7;7,25
+6;Saint-Andre de la Roche;43,733333;7,283333
+6;Beaulieu-sur-Mer;43,7;7,333333
+6;Beausoleil;43,75;7,433333
+6;Blausasc;43,8;7,366667
+6;Breil-sur-Roya;43,933333;7,5
+6;Cap-d'Ail;43,716667;7,4
+6;Castellar;43,8;7,5
+6;Castillon;43,833333;7,466667
+6;Eze;43,716667;7,366667
+6;Fontan;44;7,55
+6;Gorbio;43,783333;7,45
+6;La Brigue;44,066667;7,616667
+6;La Turbie;43,75;7,4
+6;L'Escarene;43,833333;7,35
+6;Luceram;43,883333;7,366667
+6;Menton;43,783333;7,5
+6;Moulinet;43,95;7,416667
+6;Peille;43,8;7,4
+6;Peillon;43,783333;7,383333
+6;Roquebrune-Cap-Martin;43,766667;7,466667
+6;Sainte-Agnes;43,8;7,466667
+6;Saint-Jean-Cap-Ferrat;43,683333;7,333333
+6;Saorge;43,983333;7,55
+6;Sospel;43,883333;7,45
+6;Tende;44,083333;7,6
+6;Touet-de-l'Escarene;;
+6;Villefranche-sur-Mer;43,7;7,316667
+6;Ascros;43,916667;7,016667
+6;Aspremont;43,783333;7,25
+6;Auvare;43,983333;6,916667
+6;Bairols;43,983333;7,133333
+6;Belvedere;44;7,316667
+6;Bendejun;43,833333;7,3
+6;Berre-les-Alpes;;
+6;Beuil;44,1;6,983333
+6;Bonson;43,866667;7,2
+6;Cantaron;43,766667;7,316667
+6;Castagniers;43,8;7,233333
+6;Chateauneuf-d'Entraunes;44,133333;6,833333
+6;Chateauneuf-Villevieille;;
+6;Clans;44;7,15
+6;Coaraze;43,866667;7,3
+6;Colomars;43,766667;7,216667
+6;Contes;43,816667;7,316667
+6;Cuebris;43,883333;7,016667
+6;Daluis;44,016667;6,816667
+6;Drap;43,75;7,316667
+6;Duranus;43,9;7,266667
+6;Entraunes;44,183333;6,75
+6;Gilette;43,85;7,166667
+6;Guillaumes;44,083333;6,85
+6;Ilonse;44,033333;7,1
+6;Isola;44,183333;7,05
+6;La Bollene-Vesubie;43,983333;7,333333
+6;La Croix-sur-Roudoule;43,983333;6,866667
+6;Lantosque;43,966667;7,316667
+6;La Penne;43,933333;6,95
+6;La Roquette-sur-Var;43,833333;7,2
+6;La Tour;43,95;7,183333
+6;Levens;43,866667;7,216667
+6;Lieuche;44;7,016667
+6;Malaussene;43,916667;7,133333
+6;Marie;44,033333;7,133333
+6;Massoins;43,933333;7,133333
+6;Nice;43,7;7,25
+6;Peone;44,116667;6,9
+6;Pierlas;44,033333;7,033333
+6;Pierrefeu;43,866667;7,083333
+6;Puget-Rostang;43,966667;6,916667
+6;Puget-Theniers;43,95;6,9
+6;Revest-les-Roches;43,883333;7,15
+6;Rigaud;44;6,983333
+6;Rimplas;44,066667;7,133333
+6;Roquebilliere;44,016667;7,3
+6;Roquesteron;43,866667;7
+6;Roubion;44,083333;7,05
+6;Roure;44,083333;7,083333
+6;Saint-Antonin;43,916667;6,983333
+6;Saint-Blaise;43,833333;7,233333
+6;Saint-Dalmas-le-Selvage;44,283333;6,866667
+6;Saint-Etienne-de-Tinee;44,258333;6,925
+6;Saint-Leger;44;6,833333
+6;Saint-Martin-d'Entraunes;44,133333;6,766667
+6;Saint-Martin-du-Var;43,816667;7,2
+6;Saint-Martin-Vesubie;44,066667;7,25
+6;Saint-Sauveur-sur-Tinee;44,083333;7,1
+6;Sauze;44,083333;6,833333
+6;Sigale;43,866667;6,95
+6;Thiery;43,983333;7,033333
+6;Toudon;43,9;7,116667
+6;Touet-sur-Var;43,95;7
+6;Tourette-du-Chateau;;
+6;Tournefort;43,95;7,15
+6;Tourrette-Levens;43,783333;7,266667
+6;Utelle;43,916667;7,25
+6;Valdeblore;;
+6;Venanson;44,05;7,25
+6;Villars-sur-Var;43,933333;7,1
+6;Villeneuve-d'Entraunes;;
+6;Bezaudun-les-Alpes;43,8;7,1
+6;Bouyon;43,833333;7,116667
+6;Cagnes-sur-Mer;43,666667;7,15
+6;Carros;43,8;7,183333
+6;Cipieres;43,783333;6,95
+6;Consegudes;43,85;7,05
+6;Coursegoules;43,8;7,033333
+6;Gattieres;43,766667;7,183333
+6;Greolieres;43,8;6,95
+6;La Colle-sur-Loup;43,683333;7,1
+6;La Gaude;43,716667;7,15
+6;Le Broc;43,816667;7,166667
+6;Les Ferres;43,85;7,1
+6;Roquesteron-Grasse;43,866667;7
+6;Saint-Jeannet;43,75;7,15
+6;Saint-Laurent-du-Var;43,666667;7,183333
+6;Saint-Paul;43,7;7,116667
+6;Vence;43,716667;7,116667
+6;Villeneuve-Loubet;43,65;7,116667
+6;Antibes;43,583333;7,116667
+6;Biot;43,633333;7,1
+6;Caussols;;
+6;Chateauneuf-Grasse;;
+6;Courmes;43,75;7,016667
+6;Gourdon;43,716667;6,983333
+6;Le Bar-sur-Loup;;
+6;Le Rouret;43,683333;7,016667
+6;Opio;43,666667;6,983333
+6;Roquefort-les-Pins;;
+6;Tourrettes-sur-Loup;43,716667;7,05
+6;Valbonne;43,633333;7
+6;Vallauris;43,583333;7,05
+6;Cannes;43,55;7,016667
+6;Mandelieu-la-Napoule;43,55;6,933333
+6;Theoule-sur-Mer;43,5;6,933333
+6;Aiglun;43,85;6,916667
+6;Amirat;43,9;6,816667
+6;Andon;43,766667;6,783333
+6;Auribeau-sur-Siagne;43,6;6,916667
+6;Brianconnet;43,866667;6,766667
+6;Cabris;43,666667;6,866667
+6;Caille;43,766667;6,733333
+6;Collongues;43,883333;6,866667
+6;Escragnolles;43,733333;6,783333
+6;Gars;43,866667;6,8
+6;Grasse;43,666667;6,916667
+6;La Roquette-sur-Siagne;43,6;6,95
+6;Le Cannet;43,566667;7,016667
+6;Le Mas;43,85;6,866667
+6;Les Mujouls;43,883333;6,85
+6;Le Tignet;43,65;6,85
+6;Mouans-Sartoux;43,616667;6,966667
+6;Mougins;43,6;7
+6;Pegomas;43,6;6,933333
+6;Peymeinade;43,633333;6,883333
+6;Saint-Auban;;
+6;Saint-Cezaire-sur-Siagne;43,65;6,8
+6;Saint-Vallier-de-Thiey;43,7;6,85
+6;Sallagriffon;;
+6;Seranon;43,766667;6,7
+6;Speracedes;43,65;6,866667
+6;Valderoure;43,783333;6,716667
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Marseille;;
+13;Aubagne;43,283333;5,566667
+13;Carnoux-en-Provence;;
+13;Cassis;43,216667;5,533333
+13;Ceyreste;43,216667;5,633333
+13;Cuges-les-Pins;43,283333;5,7
+13;Gemenos;43,3;5,633333
+13;La Ciotat;43,166667;5,6
+13;La Penne-sur-Huveaune;43,283333;5,516667
+13;Roquefort-la-Bedoule;43,25;5,616667
+13;Allauch;43,333333;5,483333
+13;Auriol;43,383333;5,633333
+13;Belcodene;43,416667;5,583333
+13;Bouc-Bel-Air;43,45;5,416667
+13;Cabries;43,433333;5,383333
+13;Cadolive;43,383333;5,55
+13;Gardanne;43,45;5,466667
+13;Greasque;43,433333;5,55
+13;La Bouilladisse;43,4;5,583333
+13;La Destrousse;43,366667;5,6
+13;Les Pennes-Mirabeau;43,408333;5,316667
+13;Mimet;43,416667;5,5
+13;Peypin;43,383333;5,583333
+13;Plan-de-Cuques;43,35;5,466667
+13;Roquevaire;43,35;5,6
+13;Saint-Savournin;43,4;5,533333
+13;Septemes-les-Vallons;43,4;5,366667
+13;Simiane-Collongue;43,416667;5,433333
+13;Aix-en-Provence;43,533333;5,433333
+13;Cornillon-Confoux;43,566667;5,066667
+13;Coudoux;43,55;5,25
+13;Eguilles;43,566667;5,366667
+13;Grans;43,6;5,066667
+13;La Fare-les-Oliviers;43,55;5,183333
+13;Lancon-Provence;43,583333;5,133333
+13;Meyreuil;43,483333;5,5
+13;Salon-de-Provence;43,633333;5,1
+13;Velaux;43,516667;5,266667
+13;Ventabren;43,533333;5,3
+13;Berre-l'Etang;43,466667;5,183333
+13;Carry-le-Rouet;43,333333;5,15
+13;Chateauneuf-les-Martigues;43,383333;5,166667
+13;Ensues-la-Redonne;43,35;5,2
+13;Gignac-la-Nerthe;43,391667;5,233333
+13;Le Rove;43,366667;5,25
+13;Marignane;43,416667;5,216667
+13;Rognac;43,483333;5,233333
+13;Saint-Chamas;43,55;5,033333
+13;Saint-Victoret;43,416667;5,233333
+13;Sausset-les-Pins;43,333333;5,116667
+13;Vitrolles;43,466667;5,25
+13;Fos-sur-Mer;43,433333;4,95
+13;Istres;43,516667;4,983333
+13;Martigues;43,4;5,05
+13;Port-de-Bouc;43,4;4,983333
+13;Saint-Mitre-les-Remparts;43,45;5,016667
+13;Aix-en-Provence;43,533333;5,433333
+13;Beaurecueil;43,5;5,55
+13;Chateauneuf-le-Rouge;43,483333;5,566667
+13;Fuveau;43,45;5,566667
+13;Jouques;43,633333;5,633333
+13;Le Puy-Sainte-Reparade;43,666667;5,433333
+13;Le Tholonet;43,516667;5,516667
+13;Meyrargues;43,633333;5,533333
+13;Peynier;43,45;5,65
+13;Peyrolles-en-Provence;43,65;5,583333
+13;Puyloubier;43,516667;5,683333
+13;Rousset;;
+13;Saint-Antonin-sur-Bayon;43,516667;5,583333
+13;Saint-Marc-Jaumegarde;43,55;5,516667
+13;Saint-Paul-les-Durance;43,683333;5,7
+13;Trets;43,45;5,683333
+13;Vauvenargues;43,55;5,6
+13;Venelles;43,6;5,483333
+13;Alleins;43,7;5,166667
+13;Aureille;43,7;4,95
+13;Aurons;43,666667;5,15
+13;Barbentane;43,9;4,75
+13;Cabannes;43,866667;4,95
+13;Charleval;43,716667;5,25
+13;Chateaurenard;43,883333;4,85
+13;Eygalieres;43,75;4,95
+13;Eyguieres;43,7;5,033333
+13;Eyragues;43,833333;4,833333
+13;Graveson;43,85;4,766667
+13;La Barben;43,633333;5,183333
+13;Lamanon;43,7;5,083333
+13;Lambesc;43,65;5,266667
+13;La Roque-d'Antheron;43,716667;5,316667
+13;Les Baux-de-Provence;43,75;4,8
+13;Maillane;43,833333;4,783333
+13;Mallemort;43,733333;5,183333
+13;Maussane-les-Alpilles;;
+13;Molleges;43,8;4,95
+13;Mouries;43,683333;4,866667
+13;Noves;43,866667;4,9
+13;Orgon;43,783333;5,033333
+13;Paradou;43,716667;4,783333
+13;Pelissanne;43,633333;5,15
+13;Plan-d'Orgon;43,8;5
+13;Rognes;43,666667;5,35
+13;Rognonas;43,9;4,8
+13;Saint-Andiol;43,833333;4,95
+13;Saint-Cannat;43,616667;5,3
+13;Saint-Esteve-Janson;43,683333;5,383333
+13;Saint-Remy-de-Provence;43,783333;4,833333
+13;Senas;43,75;5,083333
+13;Vernegues;43,683333;5,166667
+13;Verquieres;43,833333;4,916667
+13;Arles;43,666667;4,633333
+13;Boulbon;43,866667;4,683333
+13;Fontvieille;43,316667;5,483333
+13;Mas-Blanc-des-Alpilles;43,79;4,76
+13;Miramas;43,583333;5
+13;Port-Saint-Louis-du-Rhone;43,383333;4,8
+13;Saintes-Maries-de-la-Mer;43,45;4,425
+13;Saint-Etienne-du-Gres;43,783333;4,716667
+13;Saint-Martin-de-Crau;43,633333;4,816667
+13;Saint-Pierre-de-Mezoargues;;
+13;Tarascon;43,8;4,666667
+83;Toulon;43,116667;5,933333
+83;Toulon;43,116667;5,933333
+83;Carqueiranne;43,083333;6,083333
+83;Hyeres;43,116667;6,116667
+83;La Crau;43,15;6,066667
+83;La Garde;;
+83;La Londe-les-Maures;43,133333;6,233333
+83;La Valette-du-Var;43,133333;5,983333
+83;Le Pradet;43,1;6,016667
+83;Le Revest-les-Eaux;43,366667;6,566667
+83;Aiguines;43,766667;6,25
+83;Ampus;43,6;6,383333
+83;Aups;43,616667;6,233333
+83;Baudinard-sur-Verdon;;
+83;Bauduen;43,733333;6,183333
+83;Bormes-les-Mimosas;43,15;6,333333
+83;Cavalaire-sur-Mer;43,166667;6,533333
+83;Cogolin;43,25;6,533333
+83;Collobrieres;43,233333;6,3
+83;Draguignan;43,533333;6,466667
+83;Flayosc;43,533333;6,4
+83;Gassin;43,216667;6,583333
+83;Grimaud;43,266667;6,516667
+83;La Croix-Valmer;43,2;6,566667
+83;La Garde-Freinet;43,316667;6,466667
+83;La Mole;43,2;6,466667
+83;La Motte;43,483333;6,516667
+83;Le Cannet-des-Maures;43,4;6,35
+83;Le Lavandou;43,133333;6,366667
+83;Le Luc;43,383333;6,316667
+83;Les Arcs;43,45;6,483333
+83;Les Mayons;43,316667;6,366667
+83;Les Salles-sur-Verdon;43,766667;6,2
+83;Le Thoronet;43,45;6,3
+83;Lorgues;43,483333;6,366667
+83;Plan-de-la-Tour;43,333333;6,55
+83;Ramatuelle;43,216667;6,616667
+83;Rayol-Canadel-sur-Mer;;
+83;Sainte-Maxime;43,3;6,633333
+83;Saint-Tropez;43,266667;6,633333
+83;Taradeau;43,45;6,433333
+83;Trans-en-Provence;43,5;6,483333
+83;Verignon;43,65;6,266667
+83;Vidauban;43,416667;6,433333
+83;Bagnols-en-Foret;43,533333;6,7
+83;Bargeme;43,733333;6,566667
+83;Bargemon;43,616667;6,533333
+83;Brenon;43,766667;6,55
+83;Callas;43,583333;6,533333
+83;Callian;43,633333;6,75
+83;Chateaudouble;43,583333;6,45
+83;Chateauvieux;43,775;6,575
+83;Claviers;43,6;6,566667
+83;Comps-sur-Artuby;43,716667;6,5
+83;Fayence;43,616667;6,683333
+83;Figanieres;43,566667;6,5
+83;Frejus;43,43;6,74
+83;La Bastide;43,733333;6,616667
+83;La Martre;43,766667;6,6
+83;La Roque-Esclapon;43,716667;6,633333
+83;Le Bourguet;43,783333;6,516667
+83;Le Muy;43,466667;6,55
+83;Les Adrets-de-l'Esterel;;
+83;Mons;43,683333;6,716667
+83;Montauroux;43,616667;6,766667
+83;Montferrat;43,616667;6,483333
+83;Puget-sur-Argens;43,45;6,683333
+83;Roquebrune-sur-Argens;43,433333;6,633333
+83;Saint-Paul-en-Foret;43,566667;6,683333
+83;Saint-Raphael;43,416667;6,766667
+83;Seillans;43,633333;6,633333
+83;Tanneron;43,583333;6,883333
+83;Tourrettes;;
+83;Trigance;43,766667;6,45
+83;Artignosc-sur-Verdon;43,7;6,1
+83;Artigues;43,6;5,8
+83;Barjols;43,55;6
+83;Belgentier;43,25;6
+83;Besse-sur-Issole;43,35;6,166667
+83;Bras;43,466667;5,95
+83;Brignoles;43,4;6,066667
+83;Brue-Auriac;43,533333;5,95
+83;Cabasse;43,416667;6,233333
+83;Camps-la-Source;43,383333;6,083333
+83;Carces;43,466667;6,183333
+83;Carnoules;43,3;6,183333
+83;Chateauvert;43,5;6,016667
+83;Correns;43,483333;6,083333
+83;Cotignac;43,533333;6,15
+83;Cuers;43,233333;6,066667
+83;Entrecasteaux;43,516667;6,233333
+83;Esparron;43,591667;5,85
+83;Flassans-sur-Issole;43,366667;6,216667
+83;Forcalqueiret;43,333333;6,083333
+83;Fox-Amphoux;43,583333;6,1
+83;Gareoult;43,333333;6,05
+83;Ginasservis;43,666667;5,85
+83;Gonfaron;43,316667;6,283333
+83;La Cadiere-d'Azur;43,2;5,766667
+83;La Celle;43,4;6,033333
+83;La Farlede;43,166667;6,033333
+83;La Roquebrussanne;43,333333;5,983333
+83;La Verdiere;43,633333;5,933333
+83;Le Beausset;43,2;5,8
+83;Le Castellet;;
+83;Le Val;43,433333;6,083333
+83;Mazaugues;43,333333;5,916667
+83;Meounes-les-Montrieux;43,283333;5,966667
+83;Moissac-Bellevue;43,65;6,166667
+83;Montfort-sur-Argens;43,466667;6,116667
+83;Montmeyan;43,65;6,066667
+83;Nans-les-Pins;43,366667;5,783333
+83;Neoules;43,3;6,016667
+83;Ollieres;43,483333;5,833333
+83;Pierrefeu-du-Var;43,216667;6,133333
+83;Pignans;43,3;6,216667
+83;Plan-d'Aups-Sainte-Baume;;
+83;Ponteves;43,566667;6,05
+83;Pourcieux;43,466667;5,783333
+83;Pourrieres;43,5;5,733333
+83;Puget-Ville;43,283333;6,133333
+83;Regusse;43,65;6,133333
+83;Rians;43,616667;5,75
+83;Riboux;43,3;5,75
+83;Rocbaron;43,3;6,083333
+83;Rougiers;43,383333;5,85
+83;Saint-Antonin-du-Var;;
+83;Saint-Cyr-sur-Mer;43,183333;5,716667
+83;Sainte-Anastasie-sur-Issole;43,333333;6,133333
+83;Saint-Julien;;
+83;Saint-Martin;43,58918;5,88478
+83;Saint-Maximin-la-Sainte-Baume;43,45;5,866667
+83;Saint-Zacharie;43,383333;5,716667
+83;Salernes;43,55;6,233333
+83;Seillons-Source-d'Argens;;
+83;Signes;43,3;5,866667
+83;Sillans-la-Cascade;43,566667;6,183333
+83;Sollies-Pont;43,183333;6,05
+83;Sollies-Toucas;43,2;6,016667
+83;Sollies-Ville;43,183333;6,033333
+83;Tavernes;43,6;6,016667
+83;Tourtour;43,583333;6,3
+83;Tourves;43,4;5,933333
+83;Varages;43,6;5,966667
+83;Villecroze;43,583333;6,266667
+83;Vinon-sur-Verdon;43,716667;5,8
+83;Vins-sur-Caramy;43,433333;6,15
+83;Bandol;43,133333;5,75
+83;Evenos;43,166667;5,85
+83;La Seyne-sur-Mer;43,1;5,883333
+83;Ollioules;43,133333;5,85
+83;Saint-Mandrier-sur-Mer;43,066667;5,933333
+83;Sanary-sur-Mer;43,116667;5,8
+83;Six-Fours-les-Plages;;
+84;Avignon;43,95;4,816667
+84;Le Pontet;43,966667;4,85
+84;Morieres-les-Avignon;;
+84;Ansouis;43,733333;5,466667
+84;Apt;43,883333;5,4
+84;Auribeau;;
+84;Beaumettes;43,85;5,233333
+84;Beaumont-de-Pertuis;43,733333;5,7
+84;Bonnieux;43,816667;5,3
+84;Buoux;43,833333;5,383333
+84;Cabrieres-d'Aigues;43,783333;5,5
+84;Cabrieres-d'Avignon;43,9;5,166667
+84;Cadenet;43,733333;5,366667
+84;Caseneuve;43,883333;5,483333
+84;Castellet;43,85;5,483333
+84;Caumont-sur-Durance;43,9;4,95
+84;Cavaillon;43,84;5,04
+84;Chateauneuf-de-Gadagne;43,933333;4,933333
+84;Cheval-Blanc;43,8;5,066667
+84;Cucuron;43,783333;5,433333
+84;Fontaine-de-Vaucluse;43,916667;5,133333
+84;Gargas;43,9;5,383333
+84;Gignac;43,916667;5,533333
+84;Gordes;43,9;5,2
+84;Goult;43,866667;5,25
+84;Grambois;43,766667;5,583333
+84;Jonquerettes;43,95;4,933333
+84;Joucas;43,916667;5,25
+84;La Bastide-des-Jourdans;43,783333;5,633333
+84;La Bastidonne;43,716667;5,566667
+84;Lacoste;43,833333;5,3
+84;Lagarde-d'Apt;43,983333;5,483333
+84;Lagnes;43,9;5,116667
+84;La Motte-d'Aigues;43,766667;5,516667
+84;La Tour-d'Aigues;43,733333;5,55
+84;Lauris;43,75;5,316667
+84;Le Thor;43,933333;5
+84;Lioux;43,95;5,316667
+84;L'Isle-sur-la-Sorgue;43,916667;5,05
+84;Lourmarin;43,766667;5,366667
+84;Maubec;43,85;5,166667
+84;Menerbes;43,833333;5,216667
+84;Merindol;43,75;5,2
+84;Mirabeau;;
+84;Murs;43,95;5,25
+84;Oppede;43,833333;5,183333
+84;Pertuis;43,683333;5,5
+84;Peypin-d'Aigues;43,8;5,566667
+84;Puget;43,75;5,3
+84;Puyvert;43,766667;5,35
+84;Robion;43,85;5,116667
+84;Roussillon;43,9;5,283333
+84;Rustrel;43,916667;5,483333
+84;Saignon;43,866667;5,433333
+84;Saint-Martin-de-Castillon;43,866667;5,516667
+84;Saint-Martin-de-la-Brasque;43,766667;5,533333
+84;Saint-Pantaleon;43,883333;5,25
+84;Saint-Saturnin-les-Apt;;
+84;Saint-Saturnin-les-Avignon;43,95;4,933333
+84;Sannes;43,75;5,483333
+84;Saumane-de-Vaucluse;;
+84;Sivergues;43,833333;5,4
+84;Taillades;43,833333;5,1
+84;Vaugines;43,783333;5,416667
+84;Viens;43,9;5,566667
+84;Villars;43,916667;5,4
+84;Villelaure;43,716667;5,433333
+84;Vitrolles-en-Luberon;;
+84;Althen-des-Paluds;44;4,95
+84;Aubignan;44,1;5,016667
+84;Aurel;44,133333;5,416667
+84;Bedarrides;44,033333;4,9
+84;Bedoin;44,116667;5,166667
+84;Blauvac;44,033333;5,2
+84;Caromb;44,116667;5,1
+84;Carpentras;44,05;5,05
+84;Courthezon;44,083333;4,883333
+84;Crillon-le-Brave;44,116667;5,15
+84;Entraigues-sur-la-Sorgue;;
+84;Flassan;44,1;5,25
+84;La Roque-sur-Pernes;43,983333;5,1
+84;Le Beaucet;43,983333;5,116667
+84;Loriol-du-Comtat;44,083333;5
+84;Malemort-du-Comtat;44,016667;5,166667
+84;Mazan;44,05;5,133333
+84;Methamis;44,016667;5,216667
+84;Modene;44,1;5,116667
+84;Monieux;44,066667;5,366667
+84;Monteux;44,033333;5
+84;Mormoiron;44,066667;5,183333
+84;Pernes-les-Fontaines;44;5,05
+84;Saint-Christol;44,033333;5,5
+84;Saint-Didier;44;5,116667
+84;Saint-Hippolyte-le-Graveyron;;
+84;Saint-Pierre-de-Vassols;44,1;5,15
+84;Saint-Trinit;44,1;5,466667
+84;Sarrians;44,083333;4,966667
+84;Sault;;
+84;Sorgues;44;4,866667
+84;Vedene;43,983333;4,9
+84;Velleron;43,95;5,033333
+84;Venasque;43,983333;5,15
+84;Villes-sur-Auzon;44,05;5,233333
+84;Beaumes-de-Venise;44,116667;5,033333
+84;Beaumont-du-Ventoux;44,183333;5,166667
+84;Bollene;44,283333;4,75
+84;Brantes;44,183333;5,333333
+84;Buisson;44,283333;5
+84;Caderousse;44,1;4,75
+84;Cairanne;44,233333;4,933333
+84;Camaret-sur-Aigues;44,166667;4,883333
+84;Chateauneuf-du-Pape;44,05;4,833333
+84;Crestet;44,216667;5,083333
+84;Entrechaux;44,216667;5,133333
+84;Faucon;44,266667;5,15
+84;Gigondas;44,166667;5
+84;Grillon;44,4;4,933333
+84;Jonquieres;44,116667;4,9
+84;Lafare;44,15;5,05
+84;Lagarde-Pareol;44,216667;4,85
+84;Lamotte-du-Rhone;44,266667;4,683333
+84;Lapalud;44,3;4,683333
+84;La Roque-Alric;44,15;5,066667
+84;Le Barroux;44,133333;5,1
+84;Malaucene;44,166667;5,133333
+84;Mondragon;44,233333;4,716667
+84;Mornas;44,2;4,733333
+84;Orange;44,133333;4,8
+84;Piolenc;44,183333;4,766667
+84;Puymeras;44,266667;5,133333
+84;Rasteau;44,216667;4,983333
+84;Richerenches;44,366667;4,916667
+84;Roaix;44,25;5,016667
+84;Sablet;44,183333;5
+84;Sainte-Cecile-les-Vignes;44,25;4,883333
+84;Saint-Leger-du-Ventoux;44,2;5,266667
+84;Saint-Marcellin-les-Vaison;;
+84;Saint-Romain-en-Viennois;44,266667;5,116667
+84;Saint-Roman-de-Malegarde;44,266667;4,966667
+84;Savoillan;44,183333;5,383333
+84;Seguret;44,2;5,016667
+84;Serignan-du-Comtat;44,183333;4,85
+84;Suzette;44,166667;5,066667
+84;Travaillan;44,183333;4,9
+84;Uchaux;44,216667;4,8
+84;Vacqueyras;44,133333;4,983333
+84;Vaison-la-Romaine;44,233333;5,066667
+84;Valreas;44,383333;4,983333
+84;Villedieu;44,283333;5,033333
+84;Violes;44,166667;4,95
+84;Visan;44,3;4,966667

@@ -1,0 +1,69 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces;
+@{
+    ViewData["Title"] = "Point d'intéret (détail)";
+}
+
+@inject ICategorieRepository CategorieRepository;
+@inject ICommuneRepository CommuneRepository;
+@model PointInteret
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Point d'intéret <small>/PointInteret/Detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-horizontal" asp-action="Detail">
+            <input type="hidden" value="@Model?.Id" asp-for="Id"/>
+            <div>
+                <label for="Nom" class="control-label">Nom :</label>
+                <input type="text" class="form-control" id="Nom" placeholder="Nom"
+                       value="@Model?.Nom" asp-for="Nom"/>
+            </div>
+            <div>
+                <label for="Description" class="control-label">Description :</label>
+                <input type="text" class="form-control" id="Description" placeholder="Description"
+                       value="@Model?.Description" asp-for="Description"/>
+            </div>
+            <div>
+                @Html.Label("CategorieId", "Catégorie :", new {@class = "control-label"})
+                @Html.DropDownListFor(model => model.CategorieId,
+                    new SelectList(CategorieRepository.GetAll(), "Id", "Nom"), "-- Sélectionnez une catégorie --",
+                    new {@class = "form-control", id = "CategorieId", @for = "CategorieId"})
+            </div>
+            <input type="hidden" value="@Model?.Id" asp-for="Id"/>
+            <div>
+                <label for="AdresseText" class="control-label">Adresse :</label>
+                <input type="text" class="form-control" id="AdresseText" placeholder="Adresse"
+                       value="@Model?.Adresse.AdresseText" asp-for="Adresse.AdresseText"/>
+            </div>
+            <div>
+                <label for="CodePostal" class="control-label">Code Postal :</label>
+                <input type="text" class="form-control" id="CodePostal" placeholder="Code Postal"
+                       value="@Model?.Adresse.AdresseText" asp-for="Adresse.CodePostal"/>
+            </div>
+            <div>
+                @Html.Label("CommuneId", "Commune :", new {@class = "control-label"})
+                @Html.DropDownListFor(model => model.Adresse.CommuneId,
+                    new SelectList(CommuneRepository.GetAll(), "Id", "Nom"), "-- Sélectionnez une commune --",
+                    new {@class = "form-control", id = "CommuneId", @for = "CommuneId"})
+            </div>
+            <div>
+                <label for="Longitude" class="control-label">Longitude :</label>
+                <input type="text" class="form-control" id="Longitude" placeholder="Longitude"
+                       value="@Model?.Adresse.Longitude" asp-for="Adresse.Longitude"/>
+            </div>
+            <div>
+                <label for="Latitude" class="control-label">Latitude :</label>
+                <input type="text" class="form-control" id="Latitude" placeholder="Latitude"
+                       value="@Model?.Adresse.Latitude" aAdresse.sp-for="Latitude"/>
+            </div>
+            <br/>
+            <input type="submit" class="btn btn-primary" value="Valider"/> 
+            &nbsp;
+            <a class="btn btn-default" asp-controller="PointInteret" asp-action="Index">Annuler</a>
+        </form>
+    </div>
+</div>

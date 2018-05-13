@@ -1,0 +1,48 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces
+@{
+    ViewData["Title"] = "Départements";
+}
+
+@inject IDepartementRepository DepartementRepository;
+@model IEnumerable<Departement>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Départements <small>/Departement/Index</small></h1>
+    </div>
+</div>
+<div class="row">
+    <a class="btn btn-default" 
+        asp-controller="Departement" asp-action="Detail">Ajouter un département...</a>
+</div>
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Num</th>
+                <th>Numéro</th>
+                <th>Préfecture</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var departement in Model)
+            {
+            <tr>
+                <td>@departement.Id</td>
+                <td>@departement.Nom</td>
+                <td>@departement.Numero</td>
+                <td>@departement.Prefecture</td>
+                <td>
+                    <a class="btn btn-default" asp-controller="Departement" asp-action="Detail"
+                       asp-route-id="@departement.Id">Editer</a>
+                    &nbsp;
+                    <a class="btn btn-danger" asp-controller="Departement" asp-action="Delete" 
+                       asp-route-id="@departement.Id">Supprimer</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

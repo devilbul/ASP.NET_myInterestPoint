@@ -1,0 +1,61 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces
+@{
+    ViewData["Title"] = "Points d'intéret";
+}
+
+@inject IDepartementRepository DepartementRepository;
+@inject ICategorieRepository CategorieRepository;
+@inject ICommuneRepository CommuneRepository;
+@model IEnumerable<PointInteret>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Points d'intéret <small>/PointInteret/Index</small></h1>
+    </div>
+</div>
+<div class="row">
+    <a class="btn btn-default" 
+       asp-controller="PointInteret" asp-action="Detail">Ajouter un point d'intéret...</a>
+    <a class="btn btn-default" 
+        asp-controller="PointInteret" asp-action="Map">Afficher les points d'intéret sur une map...</a>
+</div>
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Description</th>
+                <th>Catégorie</th>
+                <th>Adresse</th>
+                <th>Commune</th>
+                <th>Département</th>
+                <th>Numéro</th>
+                <th></th>
+            </tr>
+        </thead>
+        <body>
+            @foreach(var point in Model)
+            {
+            <tr>
+                <td>@point.Id</td>
+                <td>@point.Nom</td>
+                <td>@point.Description</td>
+                <td>@CategorieRepository.GetCategorieById(point.CategorieId).Nom</td>
+                <td>@point.Adresse?.AdresseText</td>
+                <td>@CommuneRepository.GetCommuneById(point.Adresse.CommuneId).Nom</td>
+                <td>@DepartementRepository.GetDepartementById(point.Adresse.Commune.DepartementId).Nom</td>
+                <td>@DepartementRepository.GetDepartementById(point.Adresse.Commune.DepartementId).Numero</td>
+                <td>
+                    <a class="btn btn-default" asp-controller="PointInteret" asp-action="Detail" 
+                        asp-route-id="@point.Id">Editer</a>
+                    &nbsp;
+                    <a class="btn btn-danger" asp-controller="PointInteret" asp-action="Delete" 
+                        asp-route-id="@point.Id">Supprimer</a>
+                </td>
+            </tr>
+            }
+        </body>
+    </table>
+</div>

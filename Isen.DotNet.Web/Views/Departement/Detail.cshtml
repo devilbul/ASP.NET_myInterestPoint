@@ -1,0 +1,39 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces
+@{
+    ViewData["Title"] = "Département (détail)";
+}
+
+@model Departement
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Département <small>/Département/Detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-horizontal" asp-action="Detail">
+            <input type="hidden" value="@Model?.Id" asp-for="Id"/>
+            <div>
+                <label for="Nom" class="control-label">Nom :</label>
+                <input type="text" class="form-control" id="Nom" placeholder="Nom"
+                       value="@Model?.Nom" asp-for="Nom" />
+            </div>
+            <div>
+                <label for="Numero" class="control-label">Numéro :</label>
+                <input type="text" class="form-control" id="Numero" placeholder="Numéro"
+                       value="@Model?.Numero" asp-for="Numero" />
+            </div>
+            <div>
+                <label for="Prefecture" class="control-label">Préfecture :</label>
+                <input type="text" class="form-control" id="Prefecture" placeholder="Préfecture"
+                       value="@Model?.Prefecture" asp-for="Prefecture" />
+            </div>
+            <br/>
+            <input id="submit" type="submit" class="btn btn-primary" value="Valider"/>
+            &nbsp;
+            <a class="btn btn-default" asp-controller="Departement" asp-action="Index">Annuler </a>
+        </form>
+    </div>
+</div>

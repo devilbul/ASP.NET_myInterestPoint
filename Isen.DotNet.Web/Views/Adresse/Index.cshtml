@@ -1,0 +1,52 @@
+﻿@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces
+@{
+    ViewData["Title"] = "Adresses";
+}
+
+@inject ICommuneRepository CommuneRepository;
+@model IEnumerable<Adresse>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Adresses <small>/Adresse/Index</small></h1>
+    </div>
+</div>
+<div class="row">
+    <a class="btn btn-default" 
+        asp-controller="Adresse" asp-action="Detail">Ajouter une adresse...</a>
+</div>
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Adresse</th>
+                <th>Code Postal</th>
+                <th>Commune</th>
+                <th>Longitude</th>
+                <th>Latitude</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var adresse in Model)
+            {
+            <tr>
+                <td>@adresse.Id</td>
+                <td>@adresse.AdresseText</td>
+                <td>@adresse.CodePostal</td>
+                <td>@CommuneRepository.GetCommuneById(adresse.CommuneId).Nom</td>
+                <td>@adresse.Longitude</td>
+                <td>@adresse.Latitude</td>
+                <td>
+                    <a class="btn btn-default" asp-controller="Adresse" asp-action="Detail"
+                       asp-route-id="@adresse.Id">Editer</a>
+                    &nbsp;
+                    <a class="btn btn-danger" asp-controller="Adresse" asp-action="Delete" 
+                       asp-route-id="@adresse.Id">Supprimer</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
